@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/valsesia/Scripts/GraphCNN_denoising/Results/gcdn_final_moreconv/50/saved_models/16nn/50000/model.ckpt"
+all_model_checkpoint_paths: "/home/valsesia/Scripts/GraphCNN_denoising/Results/gcdn_final_moreconv/50/saved_models/16nn/50000/model.ckpt"
