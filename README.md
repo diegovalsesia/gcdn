@@ -68,8 +68,8 @@ N_iter : total number of training iterations
 starter_learning_rate : learning rate (for fixed learning rate) or starting learning rate (for decay)
 end_learning_rate : final learning rate (for decay)
 Ngpus : number of GPUs used for training (only tested for 1 or 2)
-minisize : maximum size of testing image portion to be considered at a time (to limit memory consumption), must be a multiple of search\_window
-search\_window : size of window around each pixel where nearest neighbors are computed at testing time
+minisize : maximum size of testing image portion to be considered at a time (to limit memory consumption), must be a multiple of search_window
+search_window : size of window around each pixel where nearest neighbors are computed at testing time
 sigma : standard deviation of noise. Remember to set it correctly when testing!
 ```
 
