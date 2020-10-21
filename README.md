@@ -5,12 +5,16 @@ Code for paper "Deep Graph-Convolutional Image Denoising" by Diego Valsesia, Giu
 BibTex references for journal and conference versions:
 
 ```
-@article{valsesia2019deep,
-  title={Deep Graph-Convolutional Image Denoising},
+@article{valsesia2020deep,
+  title={Deep graph-convolutional image denoising},
   author={Valsesia, Diego and Fracastoro, Giulia and Magli, Enrico},
-  journal={arXiv preprint arXiv:1907.08448},
-  year={2019}
+  journal={IEEE Transactions on Image Processing},
+  volume={29},
+  pages={8226--8237},
+  year={2020},
+  publisher={IEEE}
 }
+
 
 @inproceedings{ValsesiaICIP19,
   title     = {Image Denoising with Graph-Convolutional Neural Networks},
